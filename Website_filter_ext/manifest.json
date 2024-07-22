@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Website filter chrome extension",
+    "name": "Website filter",
     "version": "1.0",
     "description": "Changes the background colour of Chrome pages (including PDFs).",
     "permissions": [
@@ -10,7 +10,7 @@
     ],
     "content_scripts": [
       {
-        "matches": ["*://*/*.pdf"],
+        "matches": ["<all_urls>"],
         "js": ["content.js"],
         "css": ["styles.css"]
       }
@@ -26,4 +26,3 @@
       "48": "icon.png"
     }
   }
-  
