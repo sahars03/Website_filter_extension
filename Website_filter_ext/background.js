@@ -1,2 +1,3 @@
-// background.js
-console.log("Background script is running.");
+/* background.js */
+
+console.log("This background script is running.");
