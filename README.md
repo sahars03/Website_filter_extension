@@ -28,4 +28,13 @@ cd Website_filter_extension
 
 #### 6. at the top of the browser, click on the 'Extensions' icon and pin the extension (its logo is an emoji of a computer with books on its screen) so that you can use the filter when the icon is clicked
 
+## Screenshots
+
+![Logo](/assets/images/Logo.png "Extension logo.")
+
+![Filters](/assets/images/Filters.png "Filter options after clicking on the extension.")
+
+![Dark red mode](/assets/images/All%20entries.png "GitHub's Wikipedia page with the 'Dark red mode' filter applied.")
+before they confirm that they want it to be deleted.")
+
 
