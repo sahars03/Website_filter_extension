@@ -34,7 +34,7 @@ cd Website_filter_extension
 
 ![Filters](/assets/images/Filters.png "Filter options after clicking on the extension.")
 
-![Dark red mode](/assets/images/All%20entries.png "GitHub's Wikipedia page with the 'Dark red mode' filter applied.")
+![Dark red mode](/assets/images/Dark%20red%20mode.png "GitHub's Wikipedia page with the 'Dark red mode' filter applied.")
 before they confirm that they want it to be deleted.")
 
 
